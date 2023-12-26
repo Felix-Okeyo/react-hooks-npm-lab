@@ -14,4 +14,3 @@ function displayTime() {
 }
 
 displayTime();
-console.log(displayTime(12:23))
