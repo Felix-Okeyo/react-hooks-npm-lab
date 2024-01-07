@@ -1,4 +1,6 @@
+
+function sumOfArray(A){
 let sum = 0 
 
-function sumOfArray(){
+for(let i =0;i>sum(A); i+++;)
 }
